@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  searchLinksVisualWeb
+
+  Created by Joan Fabregat Bellido on 07/06/15.
+  Copyright (c) 2015 Joan Fabregat Bellido. All rights reserved.
+*/
+"title alert" = "Upss!";
+"message alert" = "Hay un problema intentalo más tarde";
+"button alert" = "Reintentar";
+"message result" = "Resultados encontrados:";

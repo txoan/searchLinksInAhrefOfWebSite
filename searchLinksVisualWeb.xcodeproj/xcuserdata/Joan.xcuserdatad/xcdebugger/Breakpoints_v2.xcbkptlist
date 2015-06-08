@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchLinksVisualWebTests/searcherLinksWebTests.m"
+            timestampString = "455384544.310226"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "-testNotFindLinkInAhrefString"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[searcherLinksWebTests testNotFindLinkInAhrefString]"
+                  moduleName = "searchLinksVisualWebTests"
+                  urlString = "file:///Users/Joan/Projects/VisualTechnologyTestJob/problem3/searchLinksVisualWeb/searchLinksVisualWebTests/searcherLinksWebTests.m"
+                  timestampString = "455384544.732797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "438">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[searcherLinksWebTests testNotFindLinkInAhrefString]"
+                  moduleName = "searchLinksVisualWebTests"
+                  urlString = "file:///Users/Joan/Projects/VisualTechnologyTestJob/problem3/searchLinksVisualWeb/searchLinksVisualWebTests/searcherLinksWebTests.m"
+                  timestampString = "455384544.733222"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "783">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[searcherLinksWebTests testNotFindLinkInAhrefString]"
+                  moduleName = "searchLinksVisualWebTests"
+                  urlString = "file:///Users/Joan/Projects/VisualTechnologyTestJob/problem3/searchLinksVisualWeb/searchLinksVisualWebTests/searcherLinksWebTests.m"
+                  timestampString = "455384544.733499"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "931">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[searcherLinksWebTests testNotFindLinkInAhrefString]"
+                  moduleName = "searchLinksVisualWebTests"
+                  urlString = "file:///Users/Joan/Projects/VisualTechnologyTestJob/problem3/searchLinksVisualWeb/searchLinksVisualWebTests/searcherLinksWebTests.m"
+                  timestampString = "455384544.733722"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1037">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
